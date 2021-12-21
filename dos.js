@@ -1,0 +1,1 @@
+let variable = "ejercicio de playground 2"
